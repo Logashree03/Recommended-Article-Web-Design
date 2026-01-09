@@ -6,7 +6,7 @@ Built with **HTML and CSS**, focusing on responsiveness and modern UI structure.
 ---
 
 ## 🚀 Live Demo
-(Add GitHub Pages link here once deployed)
+https://logashree03.github.io/Recommended-Article-Web-Design/
 
 ---
 
